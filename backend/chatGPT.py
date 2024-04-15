@@ -25,7 +25,7 @@ import re
 #####################################################################
 ##################### Config and Global Variables ###################
 #####################################################################
-X_API_KEY = 'sec_K2IfNgw1D4bgyfGKPCRa0jT6oWlIR9Jq'  # Replace with your actual API key
+X_API_KEY = ''  # Replace with your actual API key
 CHATPDF_API_BASE_URL = 'https://api.chatpdf.com/v1'
 
 CROSSREF_BASE_URL = "https://api.crossref.org/works"
